@@ -14,6 +14,6 @@ A basic data analysis and visualization project using fake delinquency and colle
 
 ---
 
-I'm currently pursuing a Graduate Diploma in Data Science at the University of Melbourne, and continuously adding to this space as I grow.
+Continuously adding to this space as I grow.
 
 > *Always open to feedback, collaboration, and learning more from the community.*
